@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wordle_</string>
+    <string name="guess">guess</string>
+    <string name="reset">reset</string>
+    <string name="guess_1">guess_1</string>
+    <string name="guess_1_check">guess_1_check</string>
+    <string name="guess_2">guess_2</string>
+    <string name="guess_2_check">guess_2_check</string>
+    <string name="guess_3">guess_3</string>
+    <string name="guess_3_check">guess_3_check</string>
+    <string name="enter_4_letter_guess_here">enter_4_letter_guess_here</string>
+    <string name="answer">answer</string>
+</resources>
